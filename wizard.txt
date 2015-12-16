@@ -9,7 +9,7 @@
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="TEQWARE Wizard"\
 url="https://copy.com/Hjza17T6htwX81Oj"
-img="http://www.teqware.byethost16.com/logo481.png"\
+img="https://github.com/abauerx/TEQWARE/blob/master/repository.teqware.kodi/icon.png"\
 fanart="http://www.teqware.byethost16.com/wizbg.png"\
 description="TEQWARE - The Future of Television"}
 
