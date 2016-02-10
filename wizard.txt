@@ -8,11 +8,7 @@
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="TEQWARE Wizard"\
-<<<<<<< HEAD
 url="https://archive.org/download/teqware1.4/teqware1.4.zip"
-=======
-url="https://archive.org/download/teqware_201602/teqware.zip"
->>>>>>> origin/master
 img="https://raw.githubusercontent.com/abauerx/TEQWARE/master/repository.teqware.kodi/icon.png"\
 fanart="https://raw.githubusercontent.com/abauerx/TEQWARE/master/repository.teqware.kodi/fanart.jpg"\
 description="TEQWARE - The Future of Television"}
